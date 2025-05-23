@@ -1,4 +1,4 @@
-Project Title: Question Answering System Based on Retrieval-Augmented Generation (RAG)
+## Question Answering System Based on Retrieval-Augmented Generation (RAG)
 Tools & Technologies: Python, Jupyter Notebook, spaCy, scikit-learn, PyMuPDF, NLP, Sentiment Analysis, Named Entity Recognition (NER), Retrieval-Augmented Generation (RAG)
 
 Project Overview:
